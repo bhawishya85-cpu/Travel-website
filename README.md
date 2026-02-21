@@ -1,7 +1,7 @@
 # Travel-website
 A fully responsive travel landing website developed with HTML and CSS, showcasing layout structuring, Flexbox/Grid usage, and mobile optimization.
 
-# 🌍 Travel Website – Internship Project
+ 🌍 Travel Website – Internship Project
 
 ## 📌 Overview
 This project is a responsive travel website built using HTML and CSS as part of my internship task. The goal was to create a clean, modern, and fully responsive travel-themed website layout without using any frameworks.

@@ -60,7 +60,11 @@ This project was created to:
 
 
 ## 🔗 Live Demo
+ https://bhawishya85-cpu.github.io/Travel-website/
 
+ 
+🎥 Background Video Hosting
+Videos are hosted using Cloudinary CDN for optimized performance and faster delivery.
 
 
 ## 👨‍💻 Author

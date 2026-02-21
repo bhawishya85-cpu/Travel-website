@@ -8,7 +8,6 @@ This project is a responsive travel website built using HTML and CSS as part of 
 
 The project focuses on layout structuring, visual hierarchy, and responsiveness across different screen sizes.
 
----
 
 ## 🚀 Features
 - Fully responsive design (Mobile, Tablet, Desktop)
@@ -18,7 +17,6 @@ The project focuses on layout structuring, visual hierarchy, and responsiveness 
 - Smooth hover effects and interactive sections
 - Organized folder structure
 
----
 
 ## 🛠 Technologies Used
 - HTML5
@@ -27,7 +25,6 @@ The project focuses on layout structuring, visual hierarchy, and responsiveness 
 - CSS Grid
 - Media Queries
 
----
 
 ## 📱 Responsiveness
 The website is designed using responsive design principles:
@@ -35,7 +32,6 @@ The website is designed using responsive design principles:
 - Adaptive layout using media queries
 - Flexible containers and scalable units
 
----
 
 ## 🎯 Purpose
 This project was created to:
@@ -44,12 +40,10 @@ This project was created to:
 - Improve layout structuring skills
 - Apply UI design principles in a real-world task
 
----
 
 ## 📸 Preview
 (Add screenshots here if possible)
 
----
 
 ## 📚 What I Learned
 - Proper layout planning before coding
@@ -58,14 +52,12 @@ This project was created to:
 - Debugging layout and responsiveness issues
 - Structuring semantic HTML
 
----
 
 ## 🔗 Future Improvements
 - Adding JavaScript for interactivity
 - Implementing animations
 - Backend integration for booking functionality
 
----
 
 ## 👨‍💻 Author
 Bhawishya Rathore

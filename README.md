@@ -60,4 +60,4 @@ This project was created to:
 
 
 ## 👨‍💻 Author
-Bhawishya Rathore
+Bhawishya
